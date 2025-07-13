@@ -1,0 +1,12 @@
+# HTTP requests
+requests>=2.31
+
+# HTML parsing
+beautifulsoup4>=4.12
+lxml>=4.9      # BeautifulSoup’s fast parser backend
+
+# Progress bar
+tqdm>=4.66
+
+# Data handling / CSV writing
+pandas>=2.2
